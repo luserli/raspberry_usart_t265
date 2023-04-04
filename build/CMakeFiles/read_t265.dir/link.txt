@@ -1,0 +1,1 @@
+/usr/bin/aarch64-linux-gnu-g++ -g CMakeFiles/read_t265.dir/read_t265.cpp.o -o read_t265  -Wl,-rpath,/usr/local/lib /usr/local/lib/librealsense2.so.2.53.1 -lwiringPi 

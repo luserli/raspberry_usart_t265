@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/lucky/code/cv/t265_data/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -g -std=gnu++11 -o CMakeFiles/read_t265.dir/read_t265.cpp.o -c /home/lucky/code/cv/t265_data/core/read_t265.cpp",
+  "file": "/home/lucky/code/cv/t265_data/core/read_t265.cpp"
+}
+]

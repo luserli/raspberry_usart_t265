@@ -1,0 +1,3 @@
+/home/lucky/code/cv/t265_data/build/CMakeFiles/read_t265.dir
+/home/lucky/code/cv/t265_data/build/CMakeFiles/edit_cache.dir
+/home/lucky/code/cv/t265_data/build/CMakeFiles/rebuild_cache.dir
